@@ -3,6 +3,11 @@
 
 | Paper Title | Link | Code | Venue |
 |---|---|---|---|
+| SegDiff: Image Segmentation with Diffusion Probabilistic Models | [Link](https://arxiv.org/abs/2112.00390) | | |
+| LSegDiff: A Latent Diffusion Model for Medical Image Segmentation | [Link](https://dl.acm.org/doi/10.1145/3628797.3629010) | | SOICT |
+| Ambiguous Medical Image Segmentation using Diffusion Models | [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Rahman_Ambiguous_Medical_Image_Segmentation_Using_Diffusion_Models_CVPR_2023_paper.pdf) | | CVPR 2023 |
+| MedSegDiff: Medical Image Segmentation with Diffusion Model | [Link](https://arxiv.org/abs/2211.00611) | | MIDL 2024 |
+| MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer | [Link](https://dl.acm.org/doi/10.1609/aaai.v38i6.28418) | | AAAI 2024 |
 | Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation | [Link](https://openreview.net/forum?id=3ACXaFxjTy) | | NIPS 2024 |
 | DifFSS: Diffusion Model for Few-Shot Semantic Segmentation | [Link](https://arxiv.org/abs/2307.00773) | [Github](https://github.com/TrinitialChan/DifFSS)  | |
 | Few-shot Biomedical Image Segmentation using Diffusion Models: Beyond Image Generation | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0169260723004984?dgcid=rss_sd_all) | [GitHub](https://github.com/BardiaKh/Mediffusion) | Computer Methods and Programs in Biomedicine |
